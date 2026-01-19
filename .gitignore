@@ -1,0 +1,46 @@
+﻿# Ignore build results
+bin/
+obj/
+vs/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Dotnet-specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Rider IDE files
+.idea/
+
+# Logs
+*.log
+
+# GitHub Copilot files
+copilot*.json
+copilot*.log
+copilot/
+.github/copilot*
+
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConsoleApp1/.vs/ConsoleApp1/v16/.suo
+/.vs
